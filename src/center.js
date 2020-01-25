@@ -8,6 +8,7 @@ height:100%;
 width:100%;
 display:flex;
 flex-diirection:column;
+padding-top:50px;
 
 
 `;
@@ -23,11 +24,6 @@ justify-content:space-between;
  flex-direction:column;   
 }
 
-
-@media screen and (max-width:900px) and
-(max-height:500px) and (min-width:501px){
-
-}
 
 `;
 
