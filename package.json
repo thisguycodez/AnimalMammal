@@ -12,7 +12,7 @@
     "react-scripts": "3.3.0",
     "styled-components": "^5.0.0"
   }, 
-  "homepage":"https://thisguycodez.github.io/exam1/",
+  "homepage":"https://thisguycodez.github.io/AnimalMammal/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
